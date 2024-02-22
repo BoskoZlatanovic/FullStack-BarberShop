@@ -1,1 +1,1 @@
-Student Project in 3rd year. Subject - Script Languages. Backend - Node.js. FrontEnd in Vue.
+Student Project in 3rd year. <br> Subject - Script Languages. <br> Backend - Node.js. <br> FrontEnd in Vue.
